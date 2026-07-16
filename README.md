@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hello, I'm Aisha Coelho
 
-<!--
-**NyxRecon/NyxRecon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Also known as NyxRecon** on CTF and cybersecurity platforms.
 
-Here are some ideas to get you started:
+I'm building my career in cybersecurity through continuous learning, hands-on labs, and practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Learning
+
+- Python
+- Linux
+- Networking
+- Cybersecurity Fundamentals
+- TryHackMe Labs
+
+---
+
+## 🎯 Career Goal
+
+I'm working toward a career in Offensive Security by strengthening my technical skills through courses, labs, and personal projects.
+
+---
+
+## 📂 What You'll Find Here
+
+- 🐍 Python projects
+- 🔐 Cybersecurity scripts
+- 📖 Learning notes
+- 💻 Practical labs
+- 🚀 Future security automation projects
+
+---
+
+## 🌱 Current Focus
+
+- Completing my Python course
+- Building my programming portfolio
+- Practicing on TryHackMe
+- Improving my Linux skills
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/aisha-coelho
+- 🎯 TryHackMe: https://tryhackme.com/p/aishahackpentest
